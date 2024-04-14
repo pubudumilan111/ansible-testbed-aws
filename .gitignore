@@ -1,0 +1,9 @@
+*.tfstate
+*.backup
+*.exe
+*.hcl
+*.backup
+.terraform
+.terraform/*
+*.plan
+*.pem
